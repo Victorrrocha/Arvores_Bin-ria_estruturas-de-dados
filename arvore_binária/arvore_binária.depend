@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1522160987 source:c:\users\victor\desktop\Árvores\arvore_binária\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1522197578 c:\users\victor\desktop\Árvores\arvore_binária\arvore.h
+
+1522196931 source:c:\users\victor\desktop\Árvores\arvore_binária\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
