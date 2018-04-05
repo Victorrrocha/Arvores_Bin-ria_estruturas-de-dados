@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1522880402 source:c:\users\victor\desktop\햞vores\arvores_c++\arvore.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	"arvore.h"
+	<queue>
+
+1522895035 c:\users\victor\desktop\햞vores\arvores_c++\arvore.h
+
+1522760917 source:c:\users\victor\desktop\햞vores\arvores_c++\bfs.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"arvore.h"
+	<queue>
+
+1522762495 source:c:\users\victor\desktop\햞vores\arvores_c++\pre_ordem.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"arvore.h"
+	<stack>
+
+1522895169 source:c:\users\victor\desktop\햞vores\arvores_c++\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"arvore.h"
+
+1522877855 source:c:\users\victor\desktop\햞vores\arvores_c++\in_ordem.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"arvore.h"
+	<stack>
+
+1522879295 source:c:\users\victor\desktop\햞vores\arvores_c++\espelho.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"arvore.h"
+
+1522895136 source:c:\users\victor\desktop\햞vores\arvores_c++\eh_binaria.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"arvore.h"
+
